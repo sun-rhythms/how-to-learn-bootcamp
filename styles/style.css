@@ -160,7 +160,6 @@
 
 .table__heading {
   margin: 0;
-  /* margin-bottom: 20px; */
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
@@ -168,7 +167,6 @@
 
 .table__text {
   margin: 0 0 20px;
-  /* margin-bottom: 20px; */
   line-height: 1.2;
   font-size: 18px;
   font-weight: 400;
@@ -176,7 +174,6 @@
 
 .table__text_no-margin {
   margin: 0;
-  /* margin-bottom: 20px; */
   line-height: 1.2;
   font-size: 18px;
 }
